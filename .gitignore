@@ -1,0 +1,11 @@
+wgan_gp/data/
+wgan_gp/output/
+wgan_gp/__pycache__/
+
+unet/data/
+unet/output/
+unet/__pycache__/
+
+.vscode/
+__pycache__/
+inference_output/
